@@ -5,3 +5,4 @@
 4-lastlines prints the last lines of /etc/passwd
 5-firstlines prints first 10 lines of /etc/passwd
 6-third_line fisplays third line only
+7-file creates a file
